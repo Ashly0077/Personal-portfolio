@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Engineering Student (CSE/ISE)
-- 💡 Interested in AI, Cybersecurity, and Game Development
+- 💡 Interested in AI and Cybersecurity
 - 🛠️ Currently building real-world projects
 - 🎯 Goal: Become a top-tier developer
 
@@ -15,9 +15,6 @@
 ## 🚀 Projects
 ### 🔍 FraudLens – AI Fraud Detection
 AI-based system to detect fraudulent transactions using machine learning.
-
-### 🎮 Kumari – Rise of the Forgotten One
-AAA mythological stealth game inspired by Tamil mythology.
 
 ---
 
@@ -36,7 +33,7 @@ AAA mythological stealth game inspired by Tamil mythology.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link bro don’t leave this forever)
+- LinkedIn: (add your link)
 - Email: (your professional email)
 
 ---
