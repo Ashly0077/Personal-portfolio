@@ -40,3 +40,10 @@ AI-based system to detect fraudulent transactions using machine learning.
 
 ## ⚡ Fun Fact
 I build ideas into reality (or at least try until it works).
+<img width="947" height="533" alt="image" src="https://github.com/user-attachments/assets/8f805c24-13b0-46e9-9395-ceb63282c190" />
+
+<img width="949" height="497" alt="image" src="https://github.com/user-attachments/assets/38a8df8b-235e-490c-a366-896ec0749cbf" />
+
+<img width="949" height="499" alt="image" src="https://github.com/user-attachments/assets/a8fb4689-3d15-48eb-a18c-07dc53b0ab5f" />
+
+
