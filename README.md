@@ -46,4 +46,7 @@ I build ideas into reality (or at least try until it works).
 
 <img width="949" height="499" alt="image" src="https://github.com/user-attachments/assets/a8fb4689-3d15-48eb-a18c-07dc53b0ab5f" />
 
-
+## 📫 Contact
+- Email: suriya.officialmail@gmail.com  
+- Portfolio: https://suriyabuilds.online  
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeysuriya-rajasekaran-bb1299325/)
