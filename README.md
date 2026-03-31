@@ -14,8 +14,7 @@
 
 ## 🚀 Projects
 ### 🔍 FraudLens – AI Fraud Detection
-AI-based system to detect fraudulent transactions using machine learning.
-
+Rule-based phishing URL detection system
 ---
 
 ## 🛠️ Skills
